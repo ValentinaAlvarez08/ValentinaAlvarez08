@@ -1,6 +1,16 @@
 ### Hi there 👋
-
+![Alt](https://png.pngtree.com/png-clipart/20201224/ourmid/pngtree-panda-bamboo-bamboo-shoots-simple-strokes-cartoon-with-pictures-small-fresh-png-image_2625172.jpg)
+	
+| Color | Código |
+| ----------- | ----------- |
+| Rojo | #FF0000 |
+| Azul | #0000FF |
+- [x] Primera tarea
+- [ ] Segunda tarea
+- [ ] Tercera tarea
 <!--
+	
+
 **ValentinaAlvarez08/ValentinaAlvarez08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
