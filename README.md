@@ -1,23 +1,13 @@
-### Hi there 👋
+### Hola mi nombre es Valentina Alvarez 👋
 ![Alt](https://png.pngtree.com/png-clipart/20201224/ourmid/pngtree-panda-bamboo-bamboo-shoots-simple-strokes-cartoon-with-pictures-small-fresh-png-image_2625172.jpg)
-	
-| Color | Código |
-| ----------- | ----------- |
-| Rojo | #FF0000 |
-| Azul | #0000FF |
-- [x] Primera tarea
-- [ ] Segunda tarea
-- [ ] Tercera tarea
-<!--
 	
 
 **ValentinaAlvarez08/ValentinaAlvarez08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## 🔭 Son estudiante de ingenieria de sistemas 
+## 🏡 Vivo en Pasto (Nariño)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
