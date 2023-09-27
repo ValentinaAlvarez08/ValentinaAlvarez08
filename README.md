@@ -1,5 +1,5 @@
 ### Bienvenid@ a mi repositorio👋
-![Alt](![image](https://github.com/ValentinaAlvarez08/ValentinaAlvarez08/assets/144852708/e7ef53f1-bd52-4c2f-88ec-72dbf5940aa5)
+(![image](https://github.com/ValentinaAlvarez08/ValentinaAlvarez08/assets/144852708/e7ef53f1-bd52-4c2f-88ec-72dbf5940aa5)
 
 ## 🔭 Soy estudiante de ingenieria de sistemas 
 ## 🏡 Vivo en Pasto (Nariño)
